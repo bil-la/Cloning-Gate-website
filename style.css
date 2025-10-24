@@ -1,0 +1,7 @@
+@import 'tailwindcss';
+
+@layer components {
+    .bg-liverpool-red {
+        @apply bg-cover bg-center bg-no-repeat
+    }
+}
